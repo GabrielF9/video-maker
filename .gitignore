@@ -67,4 +67,8 @@ content.json
 
 content/*.png
 content/*.jpg
+content/*.js
+content/*.mov
+Salvamento automático do Adobe After Effects
+Logs de template.aep
 .DS_Store
